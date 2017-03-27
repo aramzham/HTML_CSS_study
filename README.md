@@ -15,5 +15,8 @@ This is a link in HTML.
 <img src="https://i.gyazo.com/be4db7de23b11f9fcd5127e0cfe134ff.png" alt="gyazo removed the image" align = "bottom"/>
 Comments:
 <img src="https://i.gyazo.com/162e42061b34813624c4b7a9faddafaa.png" alt="gyazo removed the image" align = "bottom"/>
+And so forth...<br/>
+<hr width="50%" size="10"/>
+By the way, this markup was made by HTML :smile:
 </body>
 </html>
