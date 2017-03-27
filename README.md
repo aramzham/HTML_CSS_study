@@ -7,7 +7,13 @@ Hypertext Markup Language (HTML) is the standard markup language for creating we
   <img src="http://entrepreneurship.mit.edu/wp-content/uploads/Tim-Berners-Lee-640.jpg" align="right" width="200px" height="200px"/>
 In 1980, physicist Tim Berners-Lee, a contractor at CERN, proposed and prototyped ENQUIRE, a system for CERN researchers to use and share documents. In 1989, Berners-Lee wrote a memo proposing an Internet-based hypertext system. Berners-Lee specified HTML and wrote the browser and server software in late 1990. That year, Berners-Lee and CERN data systems engineer Robert Cailliau collaborated on a joint request for funding, but the project was not formally adopted by CERN. In his personal notes from 1990 he listed "some of the many areas in which hypertext is used" and put an encyclopedia first.
 <h2><i>Elements</i></h2>
-HTML documents imply a structure of nested HTML elements. These are indicated in the document by HTML tags, enclosed in angle brackets thus: <p>
-In the simple, general case, the extent of an element is indicated by a pair of tags: a "start tag" <p> and "end tag" </p>. The text content of the element, if any, is placed between these tags.
+Header of the HTML document: <head>...</head>. The title is included in the head, for example:
+<img src="https://i.gyazo.com/25e89d6346fdbca3ea3db771a5541338.png" alt="image deleted" align = "bottom"/>
+Headings:
+<img src="https://i.gyazo.com/6a2570d1ac83b556d58bae0a35448e31.png" alt="gyazo removed the image" align = "bottom"/>
+This is a link in HTML.
+<img src="https://i.gyazo.com/be4db7de23b11f9fcd5127e0cfe134ff.png" alt="gyazo removed the image" align = "bottom"/>
+Comments:
+<img src="https://i.gyazo.com/162e42061b34813624c4b7a9faddafaa.png" alt="gyazo removed the image" align = "bottom"/>
 </body>
 </html>
