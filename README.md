@@ -2,6 +2,7 @@
 <head></head>
 <body>
 <h1><b>HTML</b></h1>
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAafAAAAJDNhYmI0ODlkLTdhYTYtNDU2Mi1hZmJkLTdmZTg3MjdjZDBiYw.png" align="right" width="100px" height="130px"/>
 Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript it forms a triad of cornerstone technologies for the World Wide Web.
   <h2><i>History</i></h2>
   <img src="http://entrepreneurship.mit.edu/wp-content/uploads/Tim-Berners-Lee-640.jpg" align="right" width="200px" height="200px"/>
