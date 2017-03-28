@@ -47,6 +47,49 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lesson2Images", "..\..\..\.
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lesson3TablesLists", "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson3TablesLists\", "{0D8626C6-C992-446F-A743-D3E0C741F96D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_59271"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson3TablesLists\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59271\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_59271"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson3TablesLists\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_59271\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "59271"
+		SlnRelativePath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson3TablesLists\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lesson4DivAndSpan", "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson4DivAndSpan\", "{9EF0AA82-A90A-448D-9DBE-901997282AE5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65106"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson4DivAndSpan\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65106\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65106"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson4DivAndSpan\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65106\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65106"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +99,10 @@ Global
 		{C857A2C9-DCF0-444D-AE3C-396EDAA6791D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3759C7DC-55AB-4D8D-B78A-2A4C064625EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3759C7DC-55AB-4D8D-B78A-2A4C064625EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8626C6-C992-446F-A743-D3E0C741F96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8626C6-C992-446F-A743-D3E0C741F96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF0AA82-A90A-448D-9DBE-901997282AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF0AA82-A90A-448D-9DBE-901997282AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
