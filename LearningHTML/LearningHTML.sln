@@ -87,6 +87,29 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lesson4DivAndSpan", "..\..\
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "65106"
+		SlnRelativePath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson4DivAndSpan\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lesson5CSS", "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson5CSS\", "{2197C00C-94A1-471F-97F5-F980209BBA39}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_63927"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson5CSS\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63927\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_63927"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson5CSS\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_63927\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "63927"
+		SlnRelativePath = "..\..\..\..\Documents\Visual Studio 2015\WebSites\Lesson5CSS\"
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
@@ -103,6 +126,8 @@ Global
 		{0D8626C6-C992-446F-A743-D3E0C741F96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EF0AA82-A90A-448D-9DBE-901997282AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9EF0AA82-A90A-448D-9DBE-901997282AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2197C00C-94A1-471F-97F5-F980209BBA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2197C00C-94A1-471F-97F5-F980209BBA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
